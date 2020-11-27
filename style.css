@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+}
+
+header .heading {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.nav-list {
+}
+
+.nav-list-item {
+}
